@@ -1,0 +1,329 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.box1,
+header {
+    width: 100%;
+    background-color: black;
+    display: flex;
+    height: 12vh;
+    justify-content: space-between;
+}
+
+.num1 {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    padding-left: 5%;
+    /* justify-content: center; */
+    width: 50%;
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.num1 img{
+    width: 30px;
+    height: 30px;
+    color: #dadbf1;
+}
+.num1 p{
+    padding-left: 5px   ;
+}
+/* .num2 {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+} */
+
+.num3 {
+    color: white;
+    display: flex;
+    align-items: center;
+    width: 60%;
+    /* justify-content: space-between; */
+    /* padding-right: 10%; */
+    /* margin-left: 12%;  */
+}
+
+.box1 input {
+    outline: none !important;
+    border: none;
+}
+
+.num3 input {
+    margin-left: 3%;
+}
+
+#numa {
+    border-radius: 8px;
+    padding: 14px 8px;
+    font-size: 20px;
+    color: gray;
+    width: 32%;
+}
+
+.num4 {
+    display: flex;
+    align-items: center;
+    margin-left: 2%;
+}
+
+#numb {
+    border-radius: 8px;
+    padding: 14px 8px;
+    background-color: black;
+    color: white;
+    border: white solid 1px;
+    font-size: 22px;
+    width: 30%;
+}
+
+.num5 {
+    display: flex;
+    align-items: center;
+    margin-left: 2%;
+}
+
+#numc {
+    border-radius: 8px;
+    padding: 14px 40px;
+    background-color: #4C5FD5;
+    color: white;
+    font-size: 20px;
+}
+/* ----------------------------------------- */
+.section2{
+    width: 100%;
+    height: 43vh;
+    background-color: #DADBF1;
+    font-family: sans-serif;
+}
+
+.section2discription{
+    font-size: 13px;
+    padding-left: 7%;
+    padding-top: 5%;
+    font-weight: bold;
+}
+
+.section2title{
+    font-size: 70px;
+    padding-left: 7.2%;
+    margin-top: 1%;
+}
+.section2discription1{
+    padding-left: 7%;
+     margin-top: 1%;
+     font-weight: bold;
+}
+
+/* ------------------------------------------ */
+
+
+.main{
+    width: 100%;
+}
+.mainsector{
+    width: 50%;
+    padding-left: 2%;
+}
+
+.main1{
+    width:100%;
+    height: 15vh;
+    background-color: #FFE496;
+    margin-left: 8%;
+    margin-top: 7%;
+     border-radius:10px;
+}
+.main1a{
+    color: black;
+    padding: 4% 5%;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.main2{
+    margin-top: 3%;
+    margin-left: 8%;
+}
+
+.main2 p,a{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black ;
+}
+
+
+.main3{
+    font-family: sans-serif;
+}
+
+.main3a{
+    margin-top: 3%;
+    margin-left: 8%;
+    font-size: 30px;
+}
+
+.main3ab{
+    margin-top: 1%;
+    margin-left: 10%;
+    font-size: 20px;
+}
+
+.main3ac{
+    margin-top: 2%;
+    margin-left: 13%;
+    font-size: 20px;
+}
+.main3ac li{
+    margin-top: 1%;
+}
+
+.main4a{
+    margin-top: 4%;
+    margin-left: 8%;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.main4a span{
+    font-weight: bold;
+}
+
+.main5a{
+    margin-top: 3%;
+    margin-left: 8%;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.main5a span{
+    font-weight: bold;
+}
+
+.main6a{
+     margin-top: 3%;
+    margin-left: 8%;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.main6a span{
+    font-weight: bold;
+}
+
+.main7a{
+    margin-top: 3%;
+    margin-left: 8%;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.main7a span{
+    font-weight: bold;
+}
+
+.main8a{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+     margin-top: 3%;
+    margin-left: 6%;
+}
+
+.main9b{
+     width:100%;
+    height: 22vh;
+    background-color: #FFE496;
+    margin-left: 8%;
+    margin-top: 2%;
+     border-radius:10px;
+     padding: 2% 1%;
+     font-size: 20px;
+     font-family: sans-serif;
+     text-align: justify;
+}
+.main10a{
+    margin-top: 3%;
+    margin-left: 8%;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.main10a li{
+    margin-top: 2%;
+    margin-left: 6%;
+}
+
+.main11a{
+ margin-top: 3%;
+    margin-left: 8%;
+    font-size: 20px;
+    font-family: sans-serif;   
+}
+
+.main12a p{
+     margin-top: 3%;
+    margin-left: 8%;
+    font-size: 25px;
+    font-family: sans-serif;   
+}
+
+.main12b{
+ margin-top: 2%;
+    margin-left: 8%;
+    font-size: 20px;
+    font-family: sans-serif;   
+}
+.main13a{
+    margin-top: 2%;
+    margin-left: 8%;
+    font-size: 20px;
+    font-family: sans-serif; 
+}
+
+/* --------------------------------------------- */
+
+
+.footer {
+    background-color: black;
+    color: white;
+    margin-left: 10%
+}
+
+.footer {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    padding-top: 5%;
+}
+
+.footerlist1 {
+    margin: 3px 2px;
+    font-family: sans-serif;
+}
+
+.footerlist2 {
+    margin: 10px 2px;
+}
+
+.footercolumn3 {
+    margin-top: 130px;
+    padding-left: 50px;
+}
+
+.style1 {
+    font-size: 13px;
+    font-family: sans-serif;
+}
+
+.footerlast {
+    /* height: 50vh; */
+    background-color: black;
+    margin-top: 10%;
+}
