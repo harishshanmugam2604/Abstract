@@ -111,7 +111,7 @@ header {
 
 #numd {
     font-size: 65px;
-    padding-top: 7%;
+    padding-top: 7%; 
     font-weight:normal;
     font-family: sans-serif;
 }
@@ -246,8 +246,8 @@ img {
         text-align: center;
     }
     .section{
-        width: 100%;
-        margin-left: 0px;
+        width: 98%;
+        margin-left:2%;
     }
     .flex1{
         width: 100%;
@@ -264,8 +264,10 @@ img {
         width: 80%;
     }
     #numd{
-        font-size: 300%;
+        font-size: 260%;
     }
+    
+
     .numf{
         width: 100%;
     }
@@ -274,6 +276,10 @@ img {
         display: flex;
         justify-content: center;
         align-items: center;
+    }
+    .footercolumn3{
+        margin: 0px;
+        padding: 0px;
     }
 
 }
